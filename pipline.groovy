@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Get Code') {
             steps {
-                git changelog: false, poll: false, url: ' https://github.com/rahmashahba/tutorialsninja-selenium-automation-framework-.git'
+                git changelog: false, poll: false, url: 'https://github.com/rahmashahba/tutorialsninja-selenium-automation-framework-.git'
             }
         }
 
