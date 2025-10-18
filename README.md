@@ -1,4 +1,4 @@
-"# tutorialsninja-selenium-automation-framework-" 
+"# TutorialNinja-selenium-automation-framework" 
 # TutorialNinja
 
 ![TutorialsNinja Logo](https://tutorialsninja.com/demo/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg)
